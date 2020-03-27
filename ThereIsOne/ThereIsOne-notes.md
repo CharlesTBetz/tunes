@@ -13,7 +13,7 @@ Harmonic choices include use of subtonic (flat 7 chord, in this case D in the ke
 Lyrics focus on broad, postive imagery of hope, love, a journey to better times, unity, and so forth. 
 
 ## Songwriter's critique. 
-It's cliched. Deliberately. I have written a lot of songs that have bent over backwards to avoid cliches. This one embraces them fully. In part, since songs like this seem to have a mind of their own, I see myself more as a transcriber than a deliberate composer. I tried to show more than I told (standard songwriters' advice) and as above also tried to spice things up with some deliberate harmonic alternatives. 
+It's cliched. Deliberately. I have written songs that bent over backwards to avoid cliches. This one embraces them fully. In part, since songs like this seem to have a mind of their own, I see myself more as a transcriber than a  composer. I tried to show more than I told (standard songwriters' advice) and as above also tried to spice things up with some deliberate harmonic alternatives. 
 
 The verses ("Let's go on a journey ... 3.4.1.2.3. We know you are strong ... 3.4.1.2.3...") are a bit musically odd. They start with a dense rhythmic phrase and then have an unusually long sustain, which I intend to exploit with backup instruments and voices as I elaborate the work. 
 
