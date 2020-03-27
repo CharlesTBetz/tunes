@@ -33,15 +33,15 @@ I think the song could rock. It builds nicely and I had to hold myself back some
 I used Camtasia and free images from Pexels and Flickr. I'm even more of an amateur at this. 
 
 ## Equipment
-Logitech HD Pro Webcam C910
-Gibson J-200
-AKG C214 condenser mike
-UA Arrow  audio interface
-ProFx6 v3 mixer
-Adam A7X reference monitors
-Mac Mini
-Logic Audio
-Camtasia
+* Logitech HD Pro Webcam C910
+* Gibson J-200
+* AKG C214 condenser mike
+* UA Arrow  audio interface
+* ProFx6 v3 mixer
+* Adam A7X reference monitors
+* Mac Mini
+* Logic Audio
+* Camtasia
 
 
 Anyways, hope you enjoy this. 
