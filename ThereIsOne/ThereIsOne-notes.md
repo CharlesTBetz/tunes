@@ -1,6 +1,6 @@
 # Some notes about There is One. 
 
-I woke up with the refrain of this song in my head in early March 2020. Music and lyrics flowed naturally afterwards, at a rate I haven't experienced in some time. As I mention in the intro to the video, I feel the human race is undergoing some hard lessons about unity and taking care of each other currently.
+I woke up with the refrain of this song in my head on February 25th, 2020. Music and lyrics flowed naturally afterwards, at a rate I haven't experienced in some time. As I mention in the intro to the video, I feel the human race is undergoing some hard lessons about unity and taking care of each other currently.
 
 ## Musical structure. 
 The song starts with what in the classic Great American Songbook form is a [sectional verse](https://en.wikipedia.org/wiki/Thirty-two-bar_form), a rubato, recitative section to set up the main theme. This is not seen in popular music anymore but is still a staple of musicals and even current musical movies. 
