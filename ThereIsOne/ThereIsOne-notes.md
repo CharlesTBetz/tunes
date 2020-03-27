@@ -29,4 +29,19 @@ I am not a great singer. When I am on, I am OK, but I lack training and there ar
 ## Arrangement
 I think the song could rock. It builds nicely and I had to hold myself back somewhat on the last chorus. I'll be adding bass, drums, perhaps keys, certainly backup vocals, maybe an instrumental break (perhaps extending the bridge 4 bars for a guitar solo). 
 
+## Video production
+I used Camtasia and free images from Pexels and Flickr. I'm even more of an amateur at this. 
+
+## Equipment
+Logitech HD Pro Webcam C910
+Gibson J-200
+AKG C214 condenser mike
+UA Arrow  audio interface
+ProFx6 v3 mixer
+Adam A7X reference monitors
+Mac Mini
+Logic Audio
+Camtasia
+
+
 Anyways, hope you enjoy this. 
