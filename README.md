@@ -9,6 +9,8 @@ For now, this repo will just hold the lighter weight artifacts I want to share: 
 ### Index of songs
 
 #### There is one
+
 (Notes)[https://github.com/CharlesTBetz/tunes/blob/master/ThereIsOne/ThereIsOne-notes.md]
+
 (Artifacts)[https://github.com/CharlesTBetz/tunes/tree/master/ThereIsOne]
 
