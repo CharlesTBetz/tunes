@@ -7,7 +7,7 @@ The song starts with what in the classic Great American Songbook form is a [sect
 
 It then moves into an older verse-chorus style (it is not a hook-based song), with a bridge and a final chorus modulated 1/2 step up. 
 
-Harmonic choices include use of subtonic (flat 7 chord, in this case D in the key of E major) which is not an uncommon move but does distinguish it a bit (think Alison by Elvis Costello). The alternative would have been the ii chord (i.e. F#m) which just sounded too bland to me. The I-iii progression always appeals to me as an alternative to standard three-chord or [ice cream](https://en.wikipedia.org/wiki/%2750s_progression) changes. Note that The Weight also is based on an initial I-iii move (although a very different song otherwise). 
+Harmonic choices include use of subtonic (flat 7 chord, in this case D in the key of E major) which is not an uncommon move but does distinguish it a bit (think Alison by Elvis Costello). The alternative would have been the ii chord (i.e. F#m) which just sounded too bland to me. The I-iii progression often appeals to me as an alternative to standard three-chord or [ice cream](https://en.wikipedia.org/wiki/%2750s_progression) changes. Note that The Weight also is based on an initial I-iii move (although a very different song otherwise). 
 
 I also opted for a minor 7th on the refrain iii and the verse ii and iii, for a bit more subtlety. On the final chorus, it's just a straight minor chord (at that point the m7 would be too muddy). 
 
