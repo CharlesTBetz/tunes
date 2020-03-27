@@ -11,7 +11,7 @@ The I-iii progression often appeals to me as an alternative to standard three-ch
 
 I opted for a minor 7th on the refrain iii and the verse ii and iii, for a bit more subtlety. On the final chorus, it's just a straight minor chord (at that point the m7 would be too muddy). 
 
-The half step up is a dramatic move, often used in more formal music and sometimes cabaret but not something heard in popular music that much (can be technically tricky). One pop song that uses it to great effect is Rainbow Connection.  
+The half step up is a dramatic move, often used in more formal music and sometimes cabaret but not something heard in popular music that much (can be technically tricky). One pop song that uses it to great effect is Rainbow Connection. I deliberately foreshadowed it in the sectional verse closing V7 - bVI - V7 cadence.  
 
 Overall, it's a bit too long to be a pop song but I hope might work around campfires, song circles and perhaps with a choral treatment. I might experiment with that. 
 
