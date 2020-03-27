@@ -11,6 +11,8 @@ Harmonic choices include use of subtonic (flat 7 chord, in this case D in the ke
 
 I also opted for a minor 7th on the refrain iii and the verse ii and iii, for a bit more subtlety. On the final chorus, it's just a straight minor chord (at that point the m7 would be too muddy). 
 
+Overall, it's a bit too long to be a pop song but I hope might work around campfires, song circles and perhaps with a choral treatment. I might experiment with that. 
+
 ## Lyrics
 Lyrics focus on broad, postive imagery of hope, love, a journey to better times, unity, and so forth. 
 
